@@ -1,0 +1,17 @@
+.json{
+    border: 10px solid rgb(26, 4, 4);
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+ul{
+    list-style: none;
+}
+li{
+   
+    color: rgb(7, 6, 6);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
